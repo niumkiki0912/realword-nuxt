@@ -1,7 +1,8 @@
 name: Publish And Deploy Demo
 on:
   push:
-    branches: [ master ]
+    tags:
+      - 'v*'
 
 jobs:
   build-and-deploy:
@@ -53,7 +54,7 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           cd /root/realword-nuxt
-          wget https://github.com/niumkiki0912/realword-nuxt.git/releases/latest/download/release.tgz -O release.tgz
+          wget https://github.com/niumkiki0912/realword-nuxt/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
           npm install --production
           pm2 reload pm2.config.js
