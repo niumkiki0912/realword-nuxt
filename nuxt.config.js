@@ -14,12 +14,12 @@ module.exports = {
               component: resolve(__dirname, 'pages/home/')
             },
             {
-              path: '/login',// 默认子路由
+              path: '/login',
               name: 'login',
               component: resolve(__dirname, 'pages/login/')
             },
             {
-              path: '/register',// 默认子路由
+              path: '/register',
               name: 'register',
               component: resolve(__dirname, 'pages/login/')
             },
