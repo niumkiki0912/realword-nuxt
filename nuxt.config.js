@@ -5,7 +5,7 @@ module.exports = {
       routes.splice(0)
       routes.push(...[
         {
-          path: '/',
+          path: '/', 
           component: resolve(__dirname, 'pages/layout/'),
           children: [
             {
