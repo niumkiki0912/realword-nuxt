@@ -6,46 +6,38 @@
       {
         "path": "",
         "name": "home",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/home",
-        "_name": "_6e535ed3"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/login",
-        "_name": "_5c50c3f5"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/login",
-        "_name": "_5c50c3f5"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/profile",
-        "_name": "_64566b35"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/profile"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/settings",
-        "_name": "_9091e7d2"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/settings"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/editor",
-        "_name": "_213bde61"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/editor"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/article",
-        "_name": "_4b20ae82"
+        "component": "/Users/mengkeniu/niumengke/study/lagou/lagoufed-e-task/part3/fed-e-task-03-03/realword-nuxt/pages/article"
       }
-    ],
-    "_name": "_2d0ab81e"
+    ]
   }
 ]
