@@ -1,12 +1,11 @@
 name: Publish And Deploy Demo
 on:
   push:
-    branches:
-      - master
+    branches: [ master ]
 
 jobs:
   build-and-deploy:
-    runs-on: centos-latest
+    runs-on: ubuntu-latest
     steps:
 
     # 下载源码

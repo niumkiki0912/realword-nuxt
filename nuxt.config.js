@@ -9,7 +9,7 @@ module.exports = {
           component: resolve(__dirname, 'pages/layout/'),
           children: [
             {
-              path: '',// 默认子路由
+              path: '', 
               name: 'home',
               component: resolve(__dirname, 'pages/home/')
             },
